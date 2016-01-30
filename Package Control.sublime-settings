@@ -1,0 +1,29 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"CoffeeScript",
+		"EmberScript",
+		"Emmet",
+		"Git",
+		"Github Tools",
+		"Handlebars",
+		"JavaScriptNext - ES6 Syntax",
+		"JsFormat",
+		"JSHint",
+		"Line Completion",
+		"Markdown Extended",
+		"Markdown Preview",
+		"Origami",
+		"Package Control",
+		"Pretty JSON",
+		"Syntax Highlighting for Sass",
+		"Tagify",
+		"Theme - Brogrammer",
+		"Theme - Nexus",
+		"Theme - Phoenix"
+	]
+}
